@@ -10,4 +10,5 @@ maintain the alphabetic order and it should be in the format `your name <email
 id>`.
 
 Abhinav Jain <abhinavjain241@gmail.com>
+
 Ankush Chatterjee <ankushchatterjee.iitkgp@gmail.com>
