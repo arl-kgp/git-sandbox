@@ -9,5 +9,5 @@ a new branch and add your name and send a pull request. Your entry should
 maintain the alphabetic order and it should be in the format `your name <email
 id>`.
 
-Abhinav Jain <abhinavjain241@gmail.com>
+Abhinav Jain <abhinavjain241@gmail.com><br/>
 Lovish Puri <lovishpuri@gmail.com>
